@@ -1,0 +1,4980 @@
+[
+  {
+    "period": 1,
+    "frameIdx": 0,
+    "gameClock": 0.0,
+    "wallClock": 1676118667880,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -11.08,
+          1.55,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.15,
+          -30.5,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.71,
+          8.54,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -46.26,
+          0.16,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.2,
+          -13.96,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.24,
+          -0.45,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -12.99,
+          -23.0,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.61,
+          7.47,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.61,
+          -8.56,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.12,
+          24.02,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.36,
+          17.27,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          11.04,
+          -4.63,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -0.16,
+          9.02,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.64,
+          2.07,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.58,
+          13.47,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.6,
+          21.91,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          17.13,
+          -21.1,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.39,
+          10.4,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.89,
+          5.64,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.48,
+          -0.06,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.99,
+          -13.72,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.28,
+          -10.64,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -0.32,
+        0.1,
+        0.28
+      ],
+      "speed": 11.73
+    },
+    "live": false,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 1,
+    "gameClock": 0.04,
+    "wallClock": 1676118667920,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -11.08,
+          1.57,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.16,
+          -30.45,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.71,
+          8.52,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -46.22,
+          0.14,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.22,
+          -13.95,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.24,
+          -0.44,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.0,
+          -23.03,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.61,
+          7.47,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.6,
+          -8.56,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.12,
+          24.01,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.36,
+          17.27,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          11.05,
+          -4.63,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -0.21,
+          8.99,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.64,
+          2.05,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.58,
+          13.47,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.59,
+          21.92,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          17.12,
+          -21.11,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.38,
+          10.41,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.88,
+          5.64,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.45,
+          -0.06,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.95,
+          -13.7,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.28,
+          -10.65,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -0.82,
+        0.22,
+        0.28
+      ],
+      "speed": 11.61
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 2,
+    "gameClock": 0.08,
+    "wallClock": 1676118667960,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -11.07,
+          1.59,
+          0.0
+        ],
+        "speed": 0.53,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.18,
+          -30.41,
+          0.0
+        ],
+        "speed": 1.1,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.71,
+          8.5,
+          0.0
+        ],
+        "speed": 0.51,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -46.18,
+          0.13,
+          0.0
+        ],
+        "speed": 1.06,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.24,
+          -13.93,
+          0.0
+        ],
+        "speed": 0.69,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.26,
+          -0.43,
+          0.0
+        ],
+        "speed": 0.45,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.0,
+          -23.05,
+          0.0
+        ],
+        "speed": 0.56,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.61,
+          7.46,
+          0.0
+        ],
+        "speed": 0.15,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.58,
+          -8.56,
+          0.0
+        ],
+        "speed": 0.33,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.12,
+          24.01,
+          0.0
+        ],
+        "speed": 0.13,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.36,
+          17.27,
+          0.0
+        ],
+        "speed": 0.0,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          11.05,
+          -4.64,
+          0.0
+        ],
+        "speed": 0.25,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -0.26,
+          8.95,
+          0.0
+        ],
+        "speed": 1.71,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.65,
+          2.04,
+          0.0
+        ],
+        "speed": 0.36,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.59,
+          13.47,
+          0.0
+        ],
+        "speed": 0.08,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.58,
+          21.95,
+          0.0
+        ],
+        "speed": 0.55,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          17.1,
+          -21.12,
+          0.0
+        ],
+        "speed": 0.54,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.37,
+          10.42,
+          0.0
+        ],
+        "speed": 0.44,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.86,
+          5.64,
+          0.0
+        ],
+        "speed": 0.53,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.42,
+          -0.06,
+          0.0
+        ],
+        "speed": 0.75,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.91,
+          -13.68,
+          0.0
+        ],
+        "speed": 1.21,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.27,
+          -10.66,
+          0.0
+        ],
+        "speed": 0.28,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -1.34,
+        0.3,
+        0.28
+      ],
+      "speed": 11.5
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 3,
+    "gameClock": 0.12,
+    "wallClock": 1676118668000,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -11.07,
+          1.61,
+          0.0
+        ],
+        "speed": 0.6,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.2,
+          -30.37,
+          0.0
+        ],
+        "speed": 1.05,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.48,
+          0.0
+        ],
+        "speed": 0.51,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -46.14,
+          0.12,
+          0.0
+        ],
+        "speed": 1.0,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.27,
+          -13.92,
+          0.0
+        ],
+        "speed": 0.71,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.27,
+          -0.42,
+          0.0
+        ],
+        "speed": 0.59,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.01,
+          -23.07,
+          0.0
+        ],
+        "speed": 0.56,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.62,
+          7.46,
+          0.0
+        ],
+        "speed": 0.19,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.57,
+          -8.56,
+          0.0
+        ],
+        "speed": 0.35,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.12,
+          24.0,
+          0.0
+        ],
+        "speed": 0.11,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.36,
+          17.27,
+          0.0
+        ],
+        "speed": 0.05,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          11.05,
+          -4.65,
+          0.0
+        ],
+        "speed": 0.37,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -0.32,
+          8.91,
+          0.0
+        ],
+        "speed": 1.87,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.65,
+          2.03,
+          0.0
+        ],
+        "speed": 0.33,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.59,
+          13.46,
+          0.0
+        ],
+        "speed": 0.13,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.56,
+          21.96,
+          0.0
+        ],
+        "speed": 0.57,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          17.08,
+          -21.13,
+          0.0
+        ],
+        "speed": 0.64,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.35,
+          10.43,
+          0.0
+        ],
+        "speed": 0.57,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.83,
+          5.65,
+          0.0
+        ],
+        "speed": 0.64,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.39,
+          -0.06,
+          0.0
+        ],
+        "speed": 0.75,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.86,
+          -13.66,
+          0.0
+        ],
+        "speed": 1.27,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.27,
+          -10.67,
+          0.0
+        ],
+        "speed": 0.34,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -1.8,
+        0.41,
+        0.28
+      ],
+      "speed": 11.38
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 4,
+    "gameClock": 0.16,
+    "wallClock": 1676118668040,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -11.05,
+          1.63,
+          0.0
+        ],
+        "speed": 0.64,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.22,
+          -30.34,
+          0.0
+        ],
+        "speed": 0.98,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.46,
+          0.0
+        ],
+        "speed": 0.5,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -46.1,
+          0.1,
+          0.0
+        ],
+        "speed": 0.97,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.29,
+          -13.9,
+          0.0
+        ],
+        "speed": 0.75,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.3,
+          -0.41,
+          0.0
+        ],
+        "speed": 0.72,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.01,
+          -23.09,
+          0.0
+        ],
+        "speed": 0.6,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.62,
+          7.45,
+          0.0
+        ],
+        "speed": 0.21,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.56,
+          -8.56,
+          0.0
+        ],
+        "speed": 0.33,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.11,
+          24.0,
+          0.0
+        ],
+        "speed": 0.16,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.36,
+          17.27,
+          0.0
+        ],
+        "speed": 0.07,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          11.04,
+          -4.67,
+          0.0
+        ],
+        "speed": 0.46,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -0.39,
+          8.87,
+          0.0
+        ],
+        "speed": 2.04,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.65,
+          2.01,
+          0.0
+        ],
+        "speed": 0.33,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.58,
+          13.46,
+          0.0
+        ],
+        "speed": 0.13,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.54,
+          21.97,
+          0.0
+        ],
+        "speed": 0.62,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          17.06,
+          -21.15,
+          0.0
+        ],
+        "speed": 0.73,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.34,
+          10.45,
+          0.0
+        ],
+        "speed": 0.67,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.81,
+          5.65,
+          0.0
+        ],
+        "speed": 0.69,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.36,
+          -0.06,
+          0.0
+        ],
+        "speed": 0.75,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.81,
+          -13.65,
+          0.0
+        ],
+        "speed": 1.31,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.26,
+          -10.68,
+          0.0
+        ],
+        "speed": 0.37,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -2.29,
+        0.51,
+        0.28
+      ],
+      "speed": 11.25
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 5,
+    "gameClock": 0.2,
+    "wallClock": 1676118668080,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -11.04,
+          1.66,
+          0.0
+        ],
+        "speed": 0.65,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.24,
+          -30.3,
+          0.0
+        ],
+        "speed": 0.91,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.44,
+          0.0
+        ],
+        "speed": 0.5,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -46.07,
+          0.09,
+          0.0
+        ],
+        "speed": 1.0,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.31,
+          -13.88,
+          0.0
+        ],
+        "speed": 0.73,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.33,
+          -0.41,
+          0.0
+        ],
+        "speed": 0.89,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.02,
+          -23.12,
+          0.0
+        ],
+        "speed": 0.61,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.62,
+          7.44,
+          0.0
+        ],
+        "speed": 0.25,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.54,
+          -8.56,
+          0.0
+        ],
+        "speed": 0.3,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.11,
+          24.0,
+          0.0
+        ],
+        "speed": 0.15,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.36,
+          17.28,
+          0.0
+        ],
+        "speed": 0.08,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          11.02,
+          -4.68,
+          0.0
+        ],
+        "speed": 0.6,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -0.46,
+          8.83,
+          0.0
+        ],
+        "speed": 2.16,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.65,
+          2.0,
+          0.0
+        ],
+        "speed": 0.31,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.58,
+          13.45,
+          0.0
+        ],
+        "speed": 0.13,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.53,
+          21.99,
+          0.0
+        ],
+        "speed": 0.7,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          17.03,
+          -21.16,
+          0.0
+        ],
+        "speed": 0.84,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.31,
+          10.47,
+          0.0
+        ],
+        "speed": 0.72,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.78,
+          5.66,
+          0.0
+        ],
+        "speed": 0.75,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.33,
+          -0.06,
+          0.0
+        ],
+        "speed": 0.75,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.76,
+          -13.63,
+          0.0
+        ],
+        "speed": 1.29,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.24,
+          -10.69,
+          0.0
+        ],
+        "speed": 0.45,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -2.74,
+        0.61,
+        0.28
+      ],
+      "speed": 11.12
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 6,
+    "gameClock": 0.24,
+    "wallClock": 1676118668120,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -11.03,
+          1.68,
+          0.0
+        ],
+        "speed": 0.65,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.25,
+          -30.27,
+          0.0
+        ],
+        "speed": 0.85,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.42,
+          0.0
+        ],
+        "speed": 0.55,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -46.03,
+          0.09,
+          0.0
+        ],
+        "speed": 1.04,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.34,
+          -13.86,
+          0.0
+        ],
+        "speed": 0.71,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.37,
+          -0.4,
+          0.0
+        ],
+        "speed": 1.06,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.03,
+          -23.14,
+          0.0
+        ],
+        "speed": 0.67,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.62,
+          7.43,
+          0.0
+        ],
+        "speed": 0.25,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.53,
+          -8.57,
+          0.0
+        ],
+        "speed": 0.3,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.1,
+          23.99,
+          0.0
+        ],
+        "speed": 0.21,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.36,
+          17.28,
+          0.0
+        ],
+        "speed": 0.05,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          11.01,
+          -4.7,
+          0.0
+        ],
+        "speed": 0.71,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -0.55,
+          8.8,
+          0.0
+        ],
+        "speed": 2.32,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.64,
+          1.99,
+          0.0
+        ],
+        "speed": 0.28,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.59,
+          13.45,
+          0.0
+        ],
+        "speed": 0.15,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.49,
+          22.0,
+          0.0
+        ],
+        "speed": 0.78,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          17.0,
+          -21.18,
+          0.0
+        ],
+        "speed": 0.95,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.29,
+          10.49,
+          0.0
+        ],
+        "speed": 0.82,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.75,
+          5.66,
+          0.0
+        ],
+        "speed": 0.83,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.3,
+          -0.07,
+          0.0
+        ],
+        "speed": 0.81,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.71,
+          -13.62,
+          0.0
+        ],
+        "speed": 1.33,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.23,
+          -10.7,
+          0.0
+        ],
+        "speed": 0.49,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -3.19,
+        0.71,
+        0.28
+      ],
+      "speed": 11.0
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 7,
+    "gameClock": 0.28,
+    "wallClock": 1676118668160,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -11.02,
+          1.7,
+          0.0
+        ],
+        "speed": 0.67,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.26,
+          -30.24,
+          0.0
+        ],
+        "speed": 0.78,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.4,
+          0.0
+        ],
+        "speed": 0.63,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.98,
+          0.08,
+          0.0
+        ],
+        "speed": 1.09,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.36,
+          -13.85,
+          0.0
+        ],
+        "speed": 0.66,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.41,
+          -0.39,
+          0.0
+        ],
+        "speed": 1.21,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.04,
+          -23.16,
+          0.0
+        ],
+        "speed": 0.66,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.62,
+          7.42,
+          0.0
+        ],
+        "speed": 0.25,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.53,
+          -8.58,
+          0.0
+        ],
+        "speed": 0.31,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.1,
+          23.99,
+          0.0
+        ],
+        "speed": 0.28,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.36,
+          17.28,
+          0.0
+        ],
+        "speed": 0.05,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.98,
+          -4.72,
+          0.0
+        ],
+        "speed": 0.82,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -0.63,
+          8.76,
+          0.0
+        ],
+        "speed": 2.45,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.64,
+          1.98,
+          0.0
+        ],
+        "speed": 0.35,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.59,
+          13.44,
+          0.0
+        ],
+        "speed": 0.13,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.46,
+          22.01,
+          0.0
+        ],
+        "speed": 0.82,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.96,
+          -21.19,
+          0.0
+        ],
+        "speed": 1.09,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.27,
+          10.51,
+          0.0
+        ],
+        "speed": 0.9,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.71,
+          5.66,
+          0.0
+        ],
+        "speed": 0.87,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.27,
+          -0.07,
+          0.0
+        ],
+        "speed": 0.89,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.66,
+          -13.61,
+          0.0
+        ],
+        "speed": 1.4,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.21,
+          -10.71,
+          0.0
+        ],
+        "speed": 0.54,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -3.63,
+        0.81,
+        0.28
+      ],
+      "speed": 10.87
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 8,
+    "gameClock": 0.32,
+    "wallClock": 1676118668200,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -11.01,
+          1.73,
+          0.0
+        ],
+        "speed": 0.73,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.27,
+          -30.21,
+          0.0
+        ],
+        "speed": 0.76,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.37,
+          0.0
+        ],
+        "speed": 0.7,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.94,
+          0.07,
+          0.0
+        ],
+        "speed": 1.13,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.38,
+          -13.83,
+          0.0
+        ],
+        "speed": 0.62,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.47,
+          -0.39,
+          0.0
+        ],
+        "speed": 1.33,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.06,
+          -23.19,
+          0.0
+        ],
+        "speed": 0.66,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.62,
+          7.41,
+          0.0
+        ],
+        "speed": 0.25,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.52,
+          -8.59,
+          0.0
+        ],
+        "speed": 0.32,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.08,
+          23.98,
+          0.0
+        ],
+        "speed": 0.28,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.36,
+          17.28,
+          0.0
+        ],
+        "speed": 0.07,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.95,
+          -4.74,
+          0.0
+        ],
+        "speed": 0.9,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -0.73,
+          8.72,
+          0.0
+        ],
+        "speed": 2.53,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.63,
+          1.97,
+          0.0
+        ],
+        "speed": 0.38,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.59,
+          13.44,
+          0.0
+        ],
+        "speed": 0.18,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.43,
+          22.02,
+          0.0
+        ],
+        "speed": 0.77,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.92,
+          -21.21,
+          0.0
+        ],
+        "speed": 1.19,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.23,
+          10.53,
+          0.0
+        ],
+        "speed": 1.12,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.68,
+          5.66,
+          0.0
+        ],
+        "speed": 0.98,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.23,
+          -0.08,
+          0.0
+        ],
+        "speed": 0.96,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.6,
+          -13.6,
+          0.0
+        ],
+        "speed": 1.46,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.19,
+          -10.72,
+          0.0
+        ],
+        "speed": 0.64,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -4.07,
+        0.91,
+        0.28
+      ],
+      "speed": 10.74
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 9,
+    "gameClock": 0.36,
+    "wallClock": 1676118668240,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -11.0,
+          1.76,
+          0.0
+        ],
+        "speed": 0.82,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.27,
+          -30.18,
+          0.0
+        ],
+        "speed": 0.75,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.34,
+          0.0
+        ],
+        "speed": 0.75,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.9,
+          0.06,
+          0.0
+        ],
+        "speed": 1.1,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.39,
+          -13.81,
+          0.0
+        ],
+        "speed": 0.66,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.52,
+          -0.39,
+          0.0
+        ],
+        "speed": 1.48,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.07,
+          -23.21,
+          0.0
+        ],
+        "speed": 0.69,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.62,
+          7.4,
+          0.0
+        ],
+        "speed": 0.26,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.51,
+          -8.6,
+          0.0
+        ],
+        "speed": 0.39,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.07,
+          23.98,
+          0.0
+        ],
+        "speed": 0.26,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.37,
+          17.28,
+          0.0
+        ],
+        "speed": 0.07,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.92,
+          -4.76,
+          0.0
+        ],
+        "speed": 0.94,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -0.83,
+          8.7,
+          0.0
+        ],
+        "speed": 2.64,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.62,
+          1.95,
+          0.0
+        ],
+        "speed": 0.41,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.59,
+          13.43,
+          0.0
+        ],
+        "speed": 0.21,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.4,
+          22.02,
+          0.0
+        ],
+        "speed": 0.81,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.87,
+          -21.23,
+          0.0
+        ],
+        "speed": 1.27,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.19,
+          10.55,
+          0.0
+        ],
+        "speed": 1.3,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.64,
+          5.66,
+          0.0
+        ],
+        "speed": 1.03,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.19,
+          -0.09,
+          0.0
+        ],
+        "speed": 1.02,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.54,
+          -13.59,
+          0.0
+        ],
+        "speed": 1.51,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.17,
+          -10.74,
+          0.0
+        ],
+        "speed": 0.73,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -4.5,
+        1.01,
+        0.28
+      ],
+      "speed": 10.62
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 10,
+    "gameClock": 0.4,
+    "wallClock": 1676118668280,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -11.0,
+          1.79,
+          0.0
+        ],
+        "speed": 0.88,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.27,
+          -30.15,
+          0.0
+        ],
+        "speed": 0.77,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.31,
+          0.0
+        ],
+        "speed": 0.7,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.85,
+          0.05,
+          0.0
+        ],
+        "speed": 1.15,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.41,
+          -13.79,
+          0.0
+        ],
+        "speed": 0.67,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.58,
+          -0.39,
+          0.0
+        ],
+        "speed": 1.57,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.08,
+          -23.23,
+          0.0
+        ],
+        "speed": 0.73,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.63,
+          7.39,
+          0.0
+        ],
+        "speed": 0.26,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.5,
+          -8.61,
+          0.0
+        ],
+        "speed": 0.41,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.06,
+          23.98,
+          0.0
+        ],
+        "speed": 0.18,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.37,
+          17.28,
+          0.0
+        ],
+        "speed": 0.1,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.89,
+          -4.78,
+          0.0
+        ],
+        "speed": 1.03,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -0.93,
+          8.67,
+          0.0
+        ],
+        "speed": 2.74,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.61,
+          1.94,
+          0.0
+        ],
+        "speed": 0.42,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.58,
+          13.42,
+          0.0
+        ],
+        "speed": 0.28,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.37,
+          22.03,
+          0.0
+        ],
+        "speed": 0.88,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.82,
+          -21.24,
+          0.0
+        ],
+        "speed": 1.35,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.13,
+          10.57,
+          0.0
+        ],
+        "speed": 1.4,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.59,
+          5.66,
+          0.0
+        ],
+        "speed": 1.12,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.15,
+          -0.09,
+          0.0
+        ],
+        "speed": 1.01,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.48,
+          -13.59,
+          0.0
+        ],
+        "speed": 1.5,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.14,
+          -10.75,
+          0.0
+        ],
+        "speed": 0.79,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -4.91,
+        1.1,
+        0.27
+      ],
+      "speed": 10.49
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 11,
+    "gameClock": 0.44,
+    "wallClock": 1676118668320,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -10.99,
+          1.83,
+          0.0
+        ],
+        "speed": 0.95,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.26,
+          -30.12,
+          0.0
+        ],
+        "speed": 0.82,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.28,
+          0.0
+        ],
+        "speed": 0.62,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.81,
+          0.04,
+          0.0
+        ],
+        "speed": 1.15,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.43,
+          -13.77,
+          0.0
+        ],
+        "speed": 0.71,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.65,
+          -0.39,
+          0.0
+        ],
+        "speed": 1.7,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.1,
+          -23.26,
+          0.0
+        ],
+        "speed": 0.81,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.63,
+          7.38,
+          0.0
+        ],
+        "speed": 0.26,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.49,
+          -8.63,
+          0.0
+        ],
+        "speed": 0.45,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.06,
+          23.98,
+          0.0
+        ],
+        "speed": 0.22,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.37,
+          17.28,
+          0.0
+        ],
+        "speed": 0.09,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.85,
+          -4.8,
+          0.0
+        ],
+        "speed": 1.15,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -1.04,
+          8.65,
+          0.0
+        ],
+        "speed": 2.87,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.6,
+          1.93,
+          0.0
+        ],
+        "speed": 0.41,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.58,
+          13.41,
+          0.0
+        ],
+        "speed": 0.34,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.33,
+          22.03,
+          0.0
+        ],
+        "speed": 0.95,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.77,
+          -21.26,
+          0.0
+        ],
+        "speed": 1.43,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.08,
+          10.59,
+          0.0
+        ],
+        "speed": 1.53,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.55,
+          5.66,
+          0.0
+        ],
+        "speed": 1.13,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.11,
+          -0.1,
+          0.0
+        ],
+        "speed": 1.06,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.42,
+          -13.59,
+          0.0
+        ],
+        "speed": 1.5,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.11,
+          -10.77,
+          0.0
+        ],
+        "speed": 0.84,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -5.32,
+        1.2,
+        0.27
+      ],
+      "speed": 10.22
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 12,
+    "gameClock": 0.48,
+    "wallClock": 1676118668360,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -10.99,
+          1.87,
+          0.0
+        ],
+        "speed": 1.05,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.24,
+          -30.09,
+          0.0
+        ],
+        "speed": 0.83,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.26,
+          0.0
+        ],
+        "speed": 0.55,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.76,
+          0.03,
+          0.0
+        ],
+        "speed": 1.14,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.45,
+          -13.75,
+          0.0
+        ],
+        "speed": 0.67,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.72,
+          -0.39,
+          0.0
+        ],
+        "speed": 1.85,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.12,
+          -23.29,
+          0.0
+        ],
+        "speed": 0.82,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.63,
+          7.37,
+          0.0
+        ],
+        "speed": 0.2,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.48,
+          -8.64,
+          0.0
+        ],
+        "speed": 0.47,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.05,
+          23.99,
+          0.0
+        ],
+        "speed": 0.28,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.38,
+          17.28,
+          0.0
+        ],
+        "speed": 0.11,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.81,
+          -4.83,
+          0.0
+        ],
+        "speed": 1.35,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -1.16,
+          8.63,
+          0.0
+        ],
+        "speed": 2.97,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.58,
+          1.92,
+          0.0
+        ],
+        "speed": 0.45,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.57,
+          13.4,
+          0.0
+        ],
+        "speed": 0.37,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.29,
+          22.03,
+          0.0
+        ],
+        "speed": 1.0,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.71,
+          -21.27,
+          0.0
+        ],
+        "speed": 1.5,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          6.02,
+          10.6,
+          0.0
+        ],
+        "speed": 1.78,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.5,
+          5.66,
+          0.0
+        ],
+        "speed": 1.13,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.07,
+          -0.1,
+          0.0
+        ],
+        "speed": 1.09,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.36,
+          -13.59,
+          0.0
+        ],
+        "speed": 1.55,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.08,
+          -10.78,
+          0.0
+        ],
+        "speed": 0.91,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -5.72,
+        1.28,
+        0.27
+      ],
+      "speed": 9.95
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 13,
+    "gameClock": 0.52,
+    "wallClock": 1676118668400,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -10.99,
+          1.91,
+          0.0
+        ],
+        "speed": 1.13,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.22,
+          -30.06,
+          0.0
+        ],
+        "speed": 0.87,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.24,
+          0.0
+        ],
+        "speed": 0.45,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.72,
+          0.02,
+          0.0
+        ],
+        "speed": 1.18,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.47,
+          -13.73,
+          0.0
+        ],
+        "speed": 0.62,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.79,
+          -0.39,
+          0.0
+        ],
+        "speed": 1.95,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.13,
+          -23.32,
+          0.0
+        ],
+        "speed": 0.84,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.63,
+          7.36,
+          0.0
+        ],
+        "speed": 0.17,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.47,
+          -8.66,
+          0.0
+        ],
+        "speed": 0.48,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.04,
+          24.0,
+          0.0
+        ],
+        "speed": 0.35,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.38,
+          17.29,
+          0.0
+        ],
+        "speed": 0.13,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.76,
+          -4.85,
+          0.0
+        ],
+        "speed": 1.46,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -1.28,
+          8.62,
+          0.0
+        ],
+        "speed": 3.06,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.57,
+          1.91,
+          0.0
+        ],
+        "speed": 0.54,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.55,
+          13.39,
+          0.0
+        ],
+        "speed": 0.45,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.25,
+          22.02,
+          0.0
+        ],
+        "speed": 1.11,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.65,
+          -21.29,
+          0.0
+        ],
+        "speed": 1.55,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          5.95,
+          10.62,
+          0.0
+        ],
+        "speed": 2.07,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.46,
+          5.66,
+          0.0
+        ],
+        "speed": 1.18,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          48.02,
+          -0.11,
+          0.0
+        ],
+        "speed": 1.09,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.3,
+          -13.59,
+          0.0
+        ],
+        "speed": 1.63,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.05,
+          -10.8,
+          0.0
+        ],
+        "speed": 0.98,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -6.11,
+        1.36,
+        0.27
+      ],
+      "speed": 9.69
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 14,
+    "gameClock": 0.56,
+    "wallClock": 1676118668440,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -10.98,
+          1.96,
+          0.0
+        ],
+        "speed": 1.2,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.2,
+          -30.04,
+          0.0
+        ],
+        "speed": 0.92,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.22,
+          0.0
+        ],
+        "speed": 0.38,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.67,
+          0.02,
+          0.0
+        ],
+        "speed": 1.2,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.48,
+          -13.71,
+          0.0
+        ],
+        "speed": 0.61,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.88,
+          -0.38,
+          0.0
+        ],
+        "speed": 2.08,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.15,
+          -23.34,
+          0.0
+        ],
+        "speed": 0.81,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.63,
+          7.36,
+          0.0
+        ],
+        "speed": 0.12,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.47,
+          -8.68,
+          0.0
+        ],
+        "speed": 0.47,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.03,
+          24.01,
+          0.0
+        ],
+        "speed": 0.39,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.38,
+          17.29,
+          0.0
+        ],
+        "speed": 0.09,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.69,
+          -4.87,
+          0.0
+        ],
+        "speed": 1.57,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -1.4,
+          8.62,
+          0.0
+        ],
+        "speed": 3.18,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.55,
+          1.9,
+          0.0
+        ],
+        "speed": 0.56,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.54,
+          13.38,
+          0.0
+        ],
+        "speed": 0.49,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.21,
+          22.02,
+          0.0
+        ],
+        "speed": 1.32,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.59,
+          -21.3,
+          0.0
+        ],
+        "speed": 1.61,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          5.85,
+          10.64,
+          0.0
+        ],
+        "speed": 2.39,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.41,
+          5.65,
+          0.0
+        ],
+        "speed": 1.21,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          47.98,
+          -0.12,
+          0.0
+        ],
+        "speed": 1.12,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.23,
+          -13.6,
+          0.0
+        ],
+        "speed": 1.66,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          21.01,
+          -10.82,
+          0.0
+        ],
+        "speed": 1.05,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -6.48,
+        1.44,
+        0.26
+      ],
+      "speed": 9.41
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 15,
+    "gameClock": 0.6,
+    "wallClock": 1676118668480,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -10.98,
+          2.01,
+          0.0
+        ],
+        "speed": 1.25,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.17,
+          -30.01,
+          0.0
+        ],
+        "speed": 1.01,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.72,
+          8.21,
+          0.0
+        ],
+        "speed": 0.26,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.62,
+          0.02,
+          0.0
+        ],
+        "speed": 1.25,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.49,
+          -13.69,
+          0.0
+        ],
+        "speed": 0.64,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          0.96,
+          -0.38,
+          0.0
+        ],
+        "speed": 2.23,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.17,
+          -23.38,
+          0.0
+        ],
+        "speed": 0.82,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.63,
+          7.35,
+          0.0
+        ],
+        "speed": 0.13,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.46,
+          -8.7,
+          0.0
+        ],
+        "speed": 0.43,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          -0.02,
+          24.02,
+          0.0
+        ],
+        "speed": 0.49,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.39,
+          17.29,
+          0.0
+        ],
+        "speed": 0.12,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.64,
+          -4.89,
+          0.0
+        ],
+        "speed": 1.61,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -1.53,
+          8.61,
+          0.0
+        ],
+        "speed": 3.28,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.52,
+          1.89,
+          0.0
+        ],
+        "speed": 0.65,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.52,
+          13.37,
+          0.0
+        ],
+        "speed": 0.51,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.15,
+          22.0,
+          0.0
+        ],
+        "speed": 1.56,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.53,
+          -21.32,
+          0.0
+        ],
+        "speed": 1.69,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          5.76,
+          10.66,
+          0.0
+        ],
+        "speed": 2.63,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.36,
+          5.65,
+          0.0
+        ],
+        "speed": 1.26,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          47.94,
+          -0.13,
+          0.0
+        ],
+        "speed": 1.14,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.16,
+          -13.61,
+          0.0
+        ],
+        "speed": 1.68,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          20.97,
+          -10.84,
+          0.0
+        ],
+        "speed": 1.09,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -6.84,
+        1.51,
+        0.25
+      ],
+      "speed": 9.15
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 16,
+    "gameClock": 0.64,
+    "wallClock": 1676118668520,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -10.99,
+          2.06,
+          0.0
+        ],
+        "speed": 1.2,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.13,
+          -29.99,
+          0.0
+        ],
+        "speed": 1.07,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.73,
+          8.2,
+          0.0
+        ],
+        "speed": 0.15,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.57,
+          0.02,
+          0.0
+        ],
+        "speed": 1.25,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.51,
+          -13.67,
+          0.0
+        ],
+        "speed": 0.64,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          1.05,
+          -0.38,
+          0.0
+        ],
+        "speed": 2.28,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.18,
+          -23.4,
+          0.0
+        ],
+        "speed": 0.79,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.63,
+          7.35,
+          0.0
+        ],
+        "speed": 0.17,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.46,
+          -8.71,
+          0.0
+        ],
+        "speed": 0.43,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          0.0,
+          24.03,
+          0.0
+        ],
+        "speed": 0.63,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.39,
+          17.29,
+          0.0
+        ],
+        "speed": 0.18,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.57,
+          -4.9,
+          0.0
+        ],
+        "speed": 1.63,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -1.67,
+          8.61,
+          0.0
+        ],
+        "speed": 3.38,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.5,
+          1.89,
+          0.0
+        ],
+        "speed": 0.7,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.5,
+          13.36,
+          0.0
+        ],
+        "speed": 0.58,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.08,
+          21.99,
+          0.0
+        ],
+        "speed": 1.75,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.46,
+          -21.34,
+          0.0
+        ],
+        "speed": 1.77,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          5.65,
+          10.69,
+          0.0
+        ],
+        "speed": 2.78,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.31,
+          5.64,
+          0.0
+        ],
+        "speed": 1.25,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          47.89,
+          -0.13,
+          0.0
+        ],
+        "speed": 1.21,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.1,
+          -13.61,
+          0.0
+        ],
+        "speed": 1.63,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          20.93,
+          -10.85,
+          0.0
+        ],
+        "speed": 1.11,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -7.2,
+        1.58,
+        0.24
+      ],
+      "speed": 8.89
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 17,
+    "gameClock": 0.68,
+    "wallClock": 1676118668560,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -10.99,
+          2.11,
+          0.0
+        ],
+        "speed": 1.18,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.09,
+          -29.97,
+          0.0
+        ],
+        "speed": 1.13,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.73,
+          8.2,
+          0.0
+        ],
+        "speed": 0.24,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.52,
+          0.01,
+          0.0
+        ],
+        "speed": 1.26,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.52,
+          -13.64,
+          0.0
+        ],
+        "speed": 0.71,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          1.15,
+          -0.38,
+          0.0
+        ],
+        "speed": 2.38,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.2,
+          -23.43,
+          0.0
+        ],
+        "speed": 0.72,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.63,
+          7.34,
+          0.0
+        ],
+        "speed": 0.15,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.46,
+          -8.73,
+          0.0
+        ],
+        "speed": 0.4,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          0.03,
+          24.04,
+          0.0
+        ],
+        "speed": 0.74,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.4,
+          17.29,
+          0.0
+        ],
+        "speed": 0.2,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.51,
+          -4.92,
+          0.0
+        ],
+        "speed": 1.73,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -1.8,
+          8.6,
+          0.0
+        ],
+        "speed": 3.43,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.47,
+          1.88,
+          0.0
+        ],
+        "speed": 0.73,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.48,
+          13.35,
+          0.0
+        ],
+        "speed": 0.64,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          16.01,
+          21.97,
+          0.0
+        ],
+        "speed": 1.75,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.39,
+          -21.36,
+          0.0
+        ],
+        "speed": 1.86,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          5.54,
+          10.72,
+          0.0
+        ],
+        "speed": 3.0,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.26,
+          5.64,
+          0.0
+        ],
+        "speed": 1.3,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          47.84,
+          -0.14,
+          0.0
+        ],
+        "speed": 1.21,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          2.03,
+          -13.62,
+          0.0
+        ],
+        "speed": 1.68,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          20.89,
+          -10.87,
+          0.0
+        ],
+        "speed": 1.16,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -7.54,
+        1.66,
+        0.24
+      ],
+      "speed": 8.63
+    },
+    "live": true,
+    "lastTouch": "home"
+  },
+  {
+    "period": 1,
+    "frameIdx": 18,
+    "gameClock": 0.72,
+    "wallClock": 1676118668600,
+    "homePlayers": [
+      {
+        "playerId": "0746befc-a701-4b33-8faf-b3cccccf17bb",
+        "number": 25,
+        "xyz": [
+          -10.99,
+          2.15,
+          0.0
+        ],
+        "speed": 1.18,
+        "optaId": "192194"
+      },
+      {
+        "playerId": "08d71d20-85ad-4d98-8bc0-36b8e39e517a",
+        "number": 9,
+        "xyz": [
+          -0.05,
+          -29.96,
+          0.0
+        ],
+        "speed": 1.19,
+        "optaId": "174349"
+      },
+      {
+        "playerId": "1ab5dc11-1e32-4e6b-a385-5b736ec14763",
+        "number": 7,
+        "xyz": [
+          -2.74,
+          8.21,
+          0.0
+        ],
+        "speed": 0.34,
+        "optaId": "96385"
+      },
+      {
+        "playerId": "3706abe8-9aba-49c6-8a8f-4f4ef2a9be70",
+        "number": 1,
+        "xyz": [
+          -45.47,
+          0.01,
+          0.0
+        ],
+        "speed": 1.26,
+        "optaId": "186022"
+      },
+      {
+        "playerId": "471aedfa-df6f-44b4-b008-7b2cef31f3cb",
+        "number": 12,
+        "xyz": [
+          -1.52,
+          -13.62,
+          0.0
+        ],
+        "speed": 0.77,
+        "optaId": "191726"
+      },
+      {
+        "playerId": "724f3280-015e-440e-b9b7-0598833e9c2d",
+        "number": 21,
+        "xyz": [
+          1.24,
+          -0.37,
+          0.0
+        ],
+        "speed": 2.43,
+        "optaId": "463306"
+      },
+      {
+        "playerId": "8c34093f-843c-41a4-b02d-1ed289de00a3",
+        "number": 2,
+        "xyz": [
+          -13.2,
+          -23.46,
+          0.0
+        ],
+        "speed": 0.74,
+        "optaId": "447080"
+      },
+      {
+        "playerId": "a5ec6d76-4788-4894-bea2-0a165d4a36ba",
+        "number": 5,
+        "xyz": [
+          -22.63,
+          7.33,
+          0.0
+        ],
+        "speed": 0.17,
+        "optaId": "96535"
+      },
+      {
+        "playerId": "aa53177e-f36d-4298-9c67-3c93a49c3325",
+        "number": 6,
+        "xyz": [
+          -21.46,
+          -8.75,
+          0.0
+        ],
+        "speed": 0.43,
+        "optaId": "14772"
+      },
+      {
+        "playerId": "db47bb9a-634f-4ef6-9cd0-d6daf74164d7",
+        "number": 11,
+        "xyz": [
+          0.06,
+          24.05,
+          0.0
+        ],
+        "speed": 0.89,
+        "optaId": "186043"
+      },
+      {
+        "playerId": "eb23d9b0-cf56-4eb2-9a72-0022f70e3125",
+        "number": 4,
+        "xyz": [
+          -15.41,
+          17.28,
+          0.0
+        ],
+        "speed": 0.2,
+        "optaId": "434287"
+      }
+    ],
+    "awayPlayers": [
+      {
+        "playerId": "092fcb72-e828-4d76-b7b9-abdf8c0d07ad",
+        "number": 12,
+        "xyz": [
+          10.44,
+          -4.94,
+          0.0
+        ],
+        "speed": 1.76,
+        "optaId": "226718"
+      },
+      {
+        "playerId": "16bae841-2083-41fa-a659-031ee07d867d",
+        "number": 25,
+        "xyz": [
+          -1.94,
+          8.6,
+          0.0
+        ],
+        "speed": 3.45,
+        "optaId": "191720"
+      },
+      {
+        "playerId": "2b4f2f32-87cb-4cc7-bf6c-211f5ad1242a",
+        "number": 3,
+        "xyz": [
+          22.44,
+          1.87,
+          0.0
+        ],
+        "speed": 0.79,
+        "optaId": "186025"
+      },
+      {
+        "playerId": "5551eb44-290b-426d-9311-8154e778d407",
+        "number": 6,
+        "xyz": [
+          21.46,
+          13.33,
+          0.0
+        ],
+        "speed": 0.7,
+        "optaId": "174345"
+      },
+      {
+        "playerId": "5ee28902-a961-4cbc-855e-84e4af865a70",
+        "number": 16,
+        "xyz": [
+          15.94,
+          21.95,
+          0.0
+        ],
+        "speed": 1.71,
+        "optaId": "205854"
+      },
+      {
+        "playerId": "8b2decb4-3722-4313-b0a0-d0a48e39aeb2",
+        "number": 7,
+        "xyz": [
+          16.32,
+          -21.38,
+          0.0
+        ],
+        "speed": 1.92,
+        "optaId": "165678"
+      },
+      {
+        "playerId": "a63bc99a-6a68-4934-9a17-d4117c810085",
+        "number": 21,
+        "xyz": [
+          5.42,
+          10.74,
+          0.0
+        ],
+        "speed": 3.14,
+        "optaId": "444168"
+      },
+      {
+        "playerId": "c7598a8f-b910-46a7-8ee3-c052c228ceff",
+        "number": 10,
+        "xyz": [
+          14.21,
+          5.65,
+          0.0
+        ],
+        "speed": 1.33,
+        "optaId": "96380"
+      },
+      {
+        "playerId": "d588cf67-0e75-4619-a541-d0945138b3fb",
+        "number": 1,
+        "xyz": [
+          47.79,
+          -0.14,
+          0.0
+        ],
+        "speed": 1.18,
+        "optaId": "174571"
+      },
+      {
+        "playerId": "e8b086da-181d-4404-9e80-bf4b0035e2ec",
+        "number": 19,
+        "xyz": [
+          1.97,
+          -13.62,
+          0.0
+        ],
+        "speed": 1.75,
+        "optaId": "97094"
+      },
+      {
+        "playerId": "f3a6c7a6-4686-4c77-8e87-5bd842ec1642",
+        "number": 2,
+        "xyz": [
+          20.84,
+          -10.88,
+          0.0
+        ],
+        "speed": 1.21,
+        "optaId": "97362"
+      }
+    ],
+    "ball": {
+      "xyz": [
+        -7.88,
+        1.73,
+        0.23
+      ],
+      "speed": 8.37
+    },
+    "live": true,
+    "lastTouch": "home"
+  }
+]
