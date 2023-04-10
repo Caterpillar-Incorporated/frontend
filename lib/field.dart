@@ -12,18 +12,20 @@ import 'painter.dart';
 
 final client = http.Client();
 
-class FootballFieldPlayer extends StatefulWidget {
-  const FootballFieldPlayer({super.key, required this.startFrame, required this.endFrame, required this.metadataName});
+class FootballFieldDisplay extends StatefulWidget {
+  const FootballFieldDisplay({super.key, required this.gameId, required this.startFrame, required this.endFrame, required this.metadataName});
 
+  final String gameId;
   final int startFrame;
   final int endFrame;
   final String metadataName;
 
   @override
-  State<FootballFieldPlayer> createState() => FootballFieldState();
+  State<FootballFieldDisplay> createState() => FootballFieldState();
 }
 
-class FootballFieldState extends State<FootballFieldPlayer> {
+class FootballFieldState extends State<FootballFieldDisplay> {
+  String gameId = "";
   int currentFrame = -1;
   int endFrame = -1;
   bool playing = false;
@@ -35,6 +37,7 @@ class FootballFieldState extends State<FootballFieldPlayer> {
 
   Future<bool> getTrackingData() async {
     if (trackingInstances == null) {
+      gameId = widget.gameId;
       currentFrame = widget.startFrame;
       endFrame = widget.endFrame;
 
@@ -47,7 +50,11 @@ class FootballFieldState extends State<FootballFieldPlayer> {
         HttpHeaders.acceptHeader: 'application/json',
         HttpHeaders.accessControlAllowOriginHeader: '*',
       };
-      final response = await client.get(Uri.parse('http://localhost:8080/tracking-data?start=$start&end=$end'), headers: headers);
+
+      final response = await client.get(
+        Uri.parse('http://localhost:8080/tracking-data?gameId=$gameId&start=$start&end=$end'), 
+        headers: headers
+      );
 
       final result = await json.decode(response.body);
       trackingInstances = List<TrackingInstance>.from(result.map((model) => TrackingInstance.fromJson(model)));
@@ -100,7 +107,9 @@ class FootballFieldState extends State<FootballFieldPlayer> {
     return FutureBuilder<List>(
       future: readData(),
       builder: (BuildContext context, AsyncSnapshot<List> snapshot) {
-        if (!snapshot.hasData) {
+        if (snapshot.hasError) {
+          return const Text("An error occurred fetching data :(");
+        } else if (!snapshot.hasData) {
           return const Center(
               child: CircularProgressIndicator()
           );
